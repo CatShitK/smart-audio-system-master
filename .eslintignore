@@ -1,0 +1,8 @@
+src/uni_modules/
+# 找到项目根目录下的 .eslintignore 写入如下配置
+build/*.js
+src/assets
+public
+dist
+src/
+
